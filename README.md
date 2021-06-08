@@ -1,1 +1,3 @@
-# Stock_Manipulation_Detection
+# Stock Manipulation Detection
+
+To be added
